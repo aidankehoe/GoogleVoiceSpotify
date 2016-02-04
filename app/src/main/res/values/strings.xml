@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesignLab-GoogleVoice</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Search term</string>
+    <string name="button_send">Search</string>
+    <string name="voice_input">Recognized Text</string>
+    <string name="button_voice_input">Speak</string>
+    <string name="title_activity_display_message">Search Stats</string>
+</resources>
